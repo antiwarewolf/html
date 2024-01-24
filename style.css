@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Corben&family=Fuzzy+Bubbles:wght@700&display=swap');
+body{    
+    padding: 20px;
+    justify-content: center;
+    font-family: 'Fuzzy Bubbles', sans-serif;
+}
+main{    
+    display:flex;
+    margin: 50px;
+    justify-content: center;
+}
+header{
+    display: flex;
+    justify-content: center;
+}
+.footer{
+    justify-content: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+footer{
+    background-color: rgb(191, 191, 191);
+    height: 700px;
+    width: 900px;
+    margin-left: 800px;
+    margin-right: 800px;
+
+}
+.menu{
+    display:flex;
+    width: 1024px;
+    padding: 10px;
+    justify-content: space-evenly;
+}
+.E{
+    height: 30px;
+    display:flex;
+}
+.webanti{
+    height: 30px;
+    display: inline;
+    display: flex;
+    margin-right: 500px;
+}
+.photo{
+    border: 3px rgb(237, 162, 13) solid;
+    background-color: rgb(237, 162, 13);
+    border-radius: 16px;
+    width: 300px;
+    height: 300px;
+}
+.buttons, .text{
+    margin: 30px;
+}
+.buttons{
+    display:flex;
+}
+.resume{
+    background-color: rgb(237, 162, 13);
+    color: white;
+    justify-content: center;
+    height: 100px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    border-radius: 3px;
+}
+.projects{
+    justify-content: center;
+    height: 95px;
+    width: 146px;
+    border: 3px black solid;
+    margin-left: 15px;
+    margin-right: 15px;
+    display: flex;
+    align-items: center;
+    border-radius: 3px;
+}
+.YT{
+    background-color: rgb(255, 0, 0);
+    color: white;
+    justify-content: center;
+    height: 100px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    border-radius: 3px;
+}
+.L1{
+    color: white;
+    text-decoration: none;
+}
+h1, h2, .webanti{
+    font-weight: 700;
+    color: rgb(237, 162, 13);
+}
+.boutme{
+    color: gray;
+    width: 300px;
+    justify-content: center;
+    display:inline;
+}
+.hdva{
+    display:inline;
+}
+.last{
+    margin-top: 300px;
+    font-size:10px;
+}
+.photo{
+    justify-content: center;
+    align-items: center;
+}
