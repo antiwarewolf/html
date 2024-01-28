@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Corben&family=Fuzzy+Bubbles:wght@700&display=swap');
+body{    
+    font-family: 'Fuzzy Bubbles', sans-serif;
+}
+header{
+    display: flex;
+    justify-content: center;
+}
+main{
+    background-color: whitesmoke;
+    justify-content: center;
+}
+.webanti{
+    height: 30px;
+    display: inline;
+    display: flex;
+    margin-right: 500px;
+}
+.menu{
+    display:flex;
+    width: 1024px;
+    padding: 10px;
+    justify-content: space-evenly;
+}
+.E{
+    height: 30px;
+    display:flex;
+}
+.xp{
+    display: flex;
+    flex-direction: column;
+}
+.outer{
+    display: flex;
+    width: 600px;
+    background-color: white;
+    border-radius: 6px;
+    padding: 20px;
+    height: 150px;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.inner{
+    background-color: whitesmoke;
+    height: 100px;
+    width: 100px;
+    border-radius: 4px;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+h1, h2, .webanti, .spec{
+    font-weight: 700;
+    color: rgb(237, 162, 13);
+}
+.flext{
+    width: 450px;
+}
+.row{
+    background-color:#fff;
+    display: flex;
+    width:500px;
+    height:100px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.skill{
+    background-color: whitesmoke;
+    border-radius: 3px;
+    width: 100px;
+    height: 70px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+

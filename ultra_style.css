@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Corben&family=Fuzzy+Bubbles:wght@700&display=swap');
+body{    
+    font-family: 'Fuzzy Bubbles', sans-serif;
+}
+header{
+    display: flex;
+    justify-content: center;
+}
+main{
+    background-color: whitesmoke;
+}
+footer{
+    background-color: rgb(237, 162, 13);
+    height: 900px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.menu{
+    display:flex;
+    width: 1024px;
+    padding: 10px;
+    justify-content: space-evenly;
+}
+.webanti{
+    height: 30px;
+    display: inline;
+    display: flex;
+    margin-right: 500px;
+}
+h1, h2, .webanti{
+    font-weight: 700;
+    color: rgb(237, 162, 13);
+}
+.project{
+    background-color: #fff;
+    margin: 20px;
+    width: 700px;
+    height: 300px;
+    border-radius: 7px;
+    padding: 5px;
+}
+.button{
+    color: #fff;
+    background-color: rgb(237, 162, 13);
+    width: 160px;
+    height: 80px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
+.ctc{
+    background-color: rgb(237, 162, 13);
+    width: 160px;
+    height: 80px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px black solid;
+    color: #fff;
+    margin: 15px;
+    margin-top: 100px;   
+}
+.last{
+    margin: 15px;
+    margin-top: 800px;
+}
+.giga{
+    font-size: 200px;
+    margin: 15px;
+}
